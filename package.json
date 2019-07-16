@@ -1,0 +1,7 @@
+{
+  "name": "pdf.c",
+  "version": "0.0.1",
+  "development": {
+    "clibs/logger": "0.0.1"
+  }
+}
